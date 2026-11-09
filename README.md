@@ -165,28 +165,47 @@ Run `mvn test`. The JUnit tests cover the assignment's cases:
 ## Application Screenshots
 
 ### Welcome Page
+The Welcome Page is the main entry point of the Math Whiz application, providing a simple and attractive interface for users.
+It introduces the game and allows users to begin their mathematical quiz journey.
+
 <img width="991" height="907" alt="image" src="https://github.com/user-attachments/assets/71695f83-77ae-4f79-a7cf-8b387623f721" />
 
 
 ### Game Page
+The Game Page provides an interactive environment where users can solve mathematical questions.
+It allows players to test their mathematical skills and improve their problem-solving abilities.
+
 <img width="1040" height="880" alt="image" src="https://github.com/user-attachments/assets/f4379e64-56bf-49d8-950c-c0ad5342d455" />
 
 
 ### Result Page
+The Result Page displays the player's performance after completing a game session.
+It provides feedback on the game outcome and helps users evaluate their performance.
+
 <img width="1047" height="887" alt="image" src="https://github.com/user-attachments/assets/2bd64811-0f76-4bf8-bb14-45bb097c4858" />
 
+This screen presents additional details about the player's quiz results and overall performance.
+It helps users understand their achievements after completing the mathematical challenges.
+
 <img width="1012" height="897" alt="image" src="https://github.com/user-attachments/assets/ccffa905-6666-43fb-8f62-19f8ce4edd62" />
+
+This view further demonstrates the result interface with performance-related information.
+It gives users a clear overview of their progress in the game.
 
 <img width="937" height="906" alt="image" src="https://github.com/user-attachments/assets/3347267a-1a28-44b2-a729-839fe3f8ecbe" />
 
 
 ### Leaderboard
+The Leaderboard displays player rankings based on their game performance.
+It encourages healthy competition by allowing users to compare their scores and achievements.
+
 <img width="953" height="872" alt="image" src="https://github.com/user-attachments/assets/9b58f136-3d83-4a4a-aa2b-9a82913c010f" />
 
 
 ## GitHub Project Directory Link
+The complete source code and project structure are available in the following GitHub repository directory:
 
-`https://github.com/<your-username>/<your-repository>/tree/main/MathWhiz`
+https://github.com/khalidhasan4a/KHALID-MATH-WHIZ/tree/main/src/main
 
 ## Author
 
