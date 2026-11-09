@@ -165,16 +165,24 @@ Run `mvn test`. The JUnit tests cover the assignment's cases:
 ## Application Screenshots
 
 ### Welcome Page
-![Welcome Page](screenshots/home.png)
+<img width="991" height="907" alt="image" src="https://github.com/user-attachments/assets/71695f83-77ae-4f79-a7cf-8b387623f721" />
+
 
 ### Game Page
-![Game Page](screenshots/game.png)
+<img width="1040" height="880" alt="image" src="https://github.com/user-attachments/assets/f4379e64-56bf-49d8-950c-c0ad5342d455" />
+
 
 ### Result Page
-![Result Page](screenshots/result.png)
+<img width="1047" height="887" alt="image" src="https://github.com/user-attachments/assets/2bd64811-0f76-4bf8-bb14-45bb097c4858" />
+
+<img width="1012" height="897" alt="image" src="https://github.com/user-attachments/assets/ccffa905-6666-43fb-8f62-19f8ce4edd62" />
+
+<img width="937" height="906" alt="image" src="https://github.com/user-attachments/assets/3347267a-1a28-44b2-a729-839fe3f8ecbe" />
+
 
 ### Leaderboard
-![Leaderboard](screenshots/leaderboard.png)
+<img width="953" height="872" alt="image" src="https://github.com/user-attachments/assets/9b58f136-3d83-4a4a-aa2b-9a82913c010f" />
+
 
 ## GitHub Project Directory Link
 
