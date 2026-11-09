@@ -1,5 +1,7 @@
 # KHALID – MATH WHIZ
 
+ID : IT24013
+
 A web-based maths **game** built with **Java Servlets, JSP and JDBC (MySQL)**.
 It is not a quiz with stored answers: the player chooses a module, sets the problem
 themselves and types an answer, and the game **calculates the real result by calling Java methods**
